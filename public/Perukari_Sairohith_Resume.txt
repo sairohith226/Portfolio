@@ -1,0 +1,85 @@
+PERUKARI SAI ROHITH
+AI Engineer | Ex-Network & Systems Administrator
+
+Contact Information:
+Email: sairohith226@gmail.com
+Phone: +91-7382425242
+Location: Hyderabad, India
+GitHub: sairohith226
+LinkedIn: sairohith-centle
+
+PROFESSIONAL SUMMARY
+Ex-IT networking and system administrator (2.5 years) turned AI Engineer at Centle, building real-time GenAI applications using OpenAI, LangChain, Whisper, and Python. Independently developing HealthMate, a voice-enabled autonomous agent for elderly care, showcasing strong initiative and hands-on expertise in Agentic AI systems.
+
+WORK EXPERIENCE (30 months)
+
+AI Growth Intern - Centle, India, THub (Jan '25 - Present)
+• Developed an interactive quiz platform with automated question generation using Large Language Models (LLMs) like OpenAI GPT or Google Gemini to ensure diversity and adaptability
+• Implemented dynamic scoring logic, personalized real-time feedback, and a leaderboard system to enhance engagement and gamify the learning experience
+• Utilized natural language processing (NLP) to generate context-aware explanations and adaptive hints based on user performance
+• Designed a scalable architecture enabling custom topic selection, quiz difficulty adjustment, and secure user session tracking using Firebase/SQLite backend
+
+Network Administrator - Revin Labs, Hyderabad (Mar '24 - Aug '24)
+• Administered and maintained core network infrastructure and server operations, including Sophos Firewall configuration and user access control policies
+• Executed data integrity protocols and business continuity plans, ensuring rapid recovery through disaster recovery strategies
+• Enhanced network efficiency by implementing automation scripts and improving issue resolution processes
+• Developed strong skills in network troubleshooting, system optimization, and security enforcement
+• Handled VPN configurations, DNS/DHCP management, and patch deployments across hybrid cloud environments
+• Leveraged tools like Wireshark, Nagios, and PowerShell to monitor and automate operational health checks and diagnostics
+
+Windows System Administrator - Obvez Labs, Hyderabad (Sep '21 - Sep '23)
+• Managed Windows Server 2019 and Active Directory services, ensuring high availability and secure access across organizational domains
+• Configured and monitored FortiGate firewalls to uphold enterprise-grade network security and protect sensitive data
+• Delivered technical support through ServiceNow ticketing system, resolving incidents and service requests in a timely manner
+• Continuously monitored system performance, executed patch management, and conducted proactive maintenance for seamless IT operations
+
+EDUCATION
+M.Tech Computer Science - CMR Engineering College (2018-2021) - CGPA: 8.2/10
+B.Tech Computer Science - Mother Theresa College of Engineering and Technology (2012-2017) - 60%
+
+KEY PROJECTS
+
+HealthMate – Voice-Enabled Agent for Elderly Care
+Technologies: Agentic AI | Python | Whisper | gTTS | LangChain (ReAct) | Streamlit | SQLite
+• Personally developed a real-time Agentic AI system (autonomous agent) for elderly care: voice-based reminders, health data logging, and missed-dose alerts
+• Used Whisper for speech-to-text, LangChain ReAct for reasoning and action chaining, and gTTS for natural voice responses
+• Designed a secure, lightweight data layer with SQLite, ensuring personalized alerting and session continuity
+
+TravelMate AI – Personalized Travel Planner
+Technologies: GenAI | LangChain | GPT-4 | Google Maps API | Streamlit | Firebase
+• Designed an AI planner that generates travel itineraries based on preferences, budget, and live weather/location
+• Integrated APIs for maps and real-time data; used Firebase to store profiles and preferences
+• Built with LangChain agents to handle conversational itinerary creation
+
+Centle AI QuizGen – Dynamic Assessment Generator
+Technologies: GenAI | OpenAI API | Gemini | Firebase | Streamlit | NLP | SQLite
+• Developed at Centle India as part of the AI Growth Internship
+• Built an interactive quiz platform with automated question generation using Large Language Models (LLMs) like OpenAI GPT or Google Gemini
+• Implemented dynamic scoring logic, personalized real-time feedback, and a leaderboard system to enhance engagement and gamify the learning experience
+• Utilized NLP to generate context-aware explanations and adaptive hints based on user performance
+• Designed a scalable architecture enabling custom topic selection, quiz difficulty adjustment, and secure user session tracking using Firebase/SQLite backend
+
+SKILLS
+
+Generative AI & LLMs: LLMs | Prompt Engineering | NLP | RAG | LangChain | Whisper | gTTS | OpenAI API | Gemini | Azure OpenAI | Hugging Face | Streamlit | Python
+
+Agentic & Conversational AI: Chatbot Development | ReAct Agents | Voice Interaction | Autonomous Agents | Chain of Thought Reasoning | Tool Use | Memory Systems
+
+Front-End & Web Development: HTML/CSS | JavaScript | React.js | Streamlit | Flask | FastAPI | REST APIs | Firebase | Docker | Git | NodeJS
+
+Data Analysis & Visualization: MongoDB | Pandas | NumPy | Matplotlib | Seaborn | Power BI | Tableau | BigQuery | Excel
+
+Networking & System Security: Windows Server | Firewalls (Sophos, FortiGate) | O365 | Active Directory | Ansible | VMware | ServiceNow | Disaster Recovery
+
+CERTIFICATIONS
+• Introduction to Generative AI by Google Cloud
+• Front-End Development Training by Teks Academy
+• Linux System Administration Training by Educalf
+• Cloud Computing by AWS
+
+AWARDS
+• Recognized for outstanding contributions by Best employee award in the previous role
+
+HOBBIES & INTERESTS
+Hobbies: Chess | Mentoring | Upskilling | Reading
+Interests: Tech Products | Networking | Social Impact Initiatives | AI & Tech Podcasts
